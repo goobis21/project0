@@ -1,0 +1,5 @@
+# Project 0
+
+For my project0 I decided to make a porfolio style website that allows users to bid on any painting they may be interested in. The index.html page is the home page where you can navigate to any other page on the website. It contains a header, links, a table and a button to bid a dollar amount of the first image on the site. Clicking on the oil paintings link will direct you to the oil paintings page where you can click on four other links. three of which will direct you to oil paintings and the fourth will direct you back to the home page. each oil painting page link will take you to a high def photo with a table of info and an option to bid a dollar amount. Back on the home page you can click on the tattoos link that will be coming soon with high def photos of my tattoo portfolio. The about me link will take you to a brief description about my painting career and in a grid format will also have a second column of every painting i have done from the year i started to present day.   
+
+Web Programming with Python and JavaScript
